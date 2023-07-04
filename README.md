@@ -11,7 +11,7 @@ How to reach me:
 
 [![gmail](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=google&logoColor=white)](https://t.me/milazoruk)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](hwww.linkedin.com/in/milazoruk)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/milazoruk)
 
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/milazoruk)
 
